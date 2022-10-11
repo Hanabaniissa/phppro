@@ -1,6 +1,7 @@
 <?php
 // First Commit
 // Second Commit
+
 namespace console\controllers;
 
 use common\models\Post;
